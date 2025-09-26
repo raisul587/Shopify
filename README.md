@@ -1,7 +1,3 @@
-# Shopify Scraper (Websites + Emails)
-
-This modular project organizes the original `website_scraper.py` (Shopify websites list scraper) and `email_scraper.py` (email crawler) into a reusable package without changing functionality of the classes.
-
 ## Structure
 
 - `shopify_scraper/`
