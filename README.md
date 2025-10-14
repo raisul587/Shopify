@@ -40,4 +40,4 @@ python cli.py pipeline --start 100 --end 130 --sites-out scraped_data.csv --emai
 Notes:
 - The CSV produced by the website scraper contains an `Address` column used by the email scraper.
 - On Windows, the email scraper automatically uses `WindowsSelectorEventLoopPolicy`.
-- The classes `WebScraper` and `EmailScraper` remain identical in logic to the originals.
+
